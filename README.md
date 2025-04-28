@@ -27,4 +27,6 @@ The dataset was selected with the aim of comprehensively understanding customer 
 5. Can we visualize the distribution and density of reviews across different book categories?
 6. What is the distribution of books across various languages?
 
+[Visualisation on Tableau](https://public.tableau.com/app/profile/kirtana.sridharan/viz/KindleReviewsAnalysis/Story1)
+
 Feel free to explore the repository for detailed analyses and visualizations derived from this dataset.
